@@ -1,1 +1,1 @@
-rint()
+1 print("Some string")
